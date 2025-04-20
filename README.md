@@ -7,7 +7,7 @@
   - [Vim](#vim)
   - [Emacs](#emacs)
 - [Browser](#browser)
-- [Notebook](#notebook)
+- [Note Taking](#note-taking)
 - [Diagramming](#diagramming)
 - [Mind Mapping](#mind-mapping)
 - [Task Management](#task-management)
@@ -50,7 +50,7 @@
 - [Vivaldi](https://vivaldi.com)
 - [Zen Browser](https://zen-browser.app)
 
-## Notebook
+## Note Taking
 
 - [Notable](https://notable.app) - The Markdown-based note-taking app that doesn't suck
 - [Obsidian](https://obsidian.md) - Sharpen your thinking
