@@ -31,6 +31,7 @@
 
 ### Vim
 
+- [MacVim](https://macvim.org) - the text editor - for macOS
 - [Vim Bootstrap](https://vim-bootstrap.com) - Your configuration generator for Neovim/Vim
 - [SpaceVim](https://spacevim.org) - A modular Vim/Neovim configuration
 - [LunarVim](https://www.lunarvim.org) - An IDE layer for Neovim with sane defaults
@@ -82,6 +83,7 @@
 
 ## Git
 
+- [GitHub Desktop](https://github.com/apps/desktop) - Simple collaboration from your desktop
 - [GitKraken](https://www.gitkraken.com) - Legendary Git Tools
 
 ## Kubernetes
