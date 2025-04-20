@@ -12,6 +12,7 @@
 - [Mind Mapping](#mind-mapping)
 - [Task Management](#task-management)
 - [API Platform](#api-platform)
+- [Network Debugging](#network-debugging)
 - [Git](#git)
 - [Kubernetes](#kubernetes)
 - [Browser Extension](#browser-extension)
@@ -74,6 +75,10 @@
 
 - [Postman](https://www.postman.com) - The World's Leading API Platform
 - [Insomnia](https://insomnia.rest) - The Collaborative API Development Platform
+
+## Network Debugging
+
+- [Proxyman](https://proxyman.com) - Debug, intercept & mock HTTP with Proxyman
 
 ## Git
 
