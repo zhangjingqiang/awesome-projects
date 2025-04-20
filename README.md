@@ -94,3 +94,4 @@
 
 - [Wappalyzer](https://www.wappalyzer.com) - Find out what websites are built with
 - [Vimium](https://vimium.github.io) - The Hacker's Browser
+- [ColorZilla](https://www.colorzilla.com) - Eyedropper, Color Picker, Gradient Generator and more
