@@ -75,11 +75,11 @@
 - [Postman](https://www.postman.com) - The World's Leading API Platform
 - [Insomnia](https://insomnia.rest) - The Collaborative API Development Platform
 
-# Git
+## Git
 
 - [GitKraken](https://www.gitkraken.com) - Legendary Git Tools
 
-# Kubernetes
+## Kubernetes
 
 - [Lens](https://k8slens.dev) - The Kubernetes IDE
 
