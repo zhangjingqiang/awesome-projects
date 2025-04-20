@@ -12,6 +12,8 @@
 - [Mind Mapping](#mind-mapping)
 - [Task Management](#task-management)
 - [API Platform](#api-platform)
+- [Git](#git)
+- [Kubernetes](#kubernetes)
 - [Browser Extension](#browser-extension)
 
 ## Terminal
@@ -72,6 +74,14 @@
 
 - [Postman](https://www.postman.com) - The World's Leading API Platform
 - [Insomnia](https://insomnia.rest) - The Collaborative API Development Platform
+
+# Git
+
+- [GitKraken](https://www.gitkraken.com) - Legendary Git Tools
+
+# Kubernetes
+
+- [Lens](https://k8slens.dev) - The Kubernetes IDE
 
 ## Browser Extension
 
