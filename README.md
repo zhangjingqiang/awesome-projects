@@ -43,7 +43,7 @@
 
 - [Doom Emacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
 - [Spacemacs](https://www.spacemacs.org) - Emacs advanced Kit focused on Evil
-- [Emacs Prelude](https://github.com/bbatsov/prelude) - Make your experience with Emacs both more pleasant and more powerful
+- [Emacs Prelude](https://prelude.emacsredux.com) - Make your experience with Emacs both more pleasant and more powerful
 - [System Crafters](https://systemcrafters.net)
 
 ## Browser
