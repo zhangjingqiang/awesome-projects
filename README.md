@@ -43,12 +43,14 @@
 
 - [Doom Emacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
 - [Spacemacs](https://www.spacemacs.org) - Emacs advanced Kit focused on Evil
-- [System Crafters](https://systemcrafters.net) - A community and learning resource for computer enthusiasts who are interested in crafting their computing experience to increase their enjoyment and productivity
+- [Emacs Prelude](https://github.com/bbatsov/prelude) - Make your experience with Emacs both more pleasant and more powerful
+- [System Crafters](https://systemcrafters.net)
 
 ## Browser
 
 - [DuckDuckGo](https://duckduckgo.com)
 - [Vivaldi](https://vivaldi.com)
+- [Zen Browser](https://zen-browser.app)
 
 ## Note Taking
 
@@ -67,6 +69,7 @@
 
 ## Task Management
 
+- [TickTick](https://ticktick.com) - A To-Do List and Calendar to keep you organized
 - [ClickUp](https://clickup.com) - The everything app for work
 
 ## API Platform
