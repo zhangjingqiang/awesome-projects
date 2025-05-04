@@ -37,7 +37,7 @@
 - [SpaceVim](https://spacevim.org) - A modular Vim/Neovim configuration
 - [LunarVim](https://www.lunarvim.org) - An IDE layer for Neovim with sane defaults
 - [LazyVim](https://www.lazyvim.org) - A Neovim setup to make it easy to customize and extend your config
-- [AstroVim](https://astronvim.com) - An aesthetically pleasing and feature-rich Neovim configuration that focuses on extensibility and usability
+- [AstroVim](https://astronvim.com) - Configure less, code more
 - [NvChad](https://nvchad.com) - Blazing fast Neovim config providing solid defaults and a beautiful UI
 
 ### Emacs
