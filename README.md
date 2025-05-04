@@ -11,6 +11,7 @@
 - [Diagramming](#diagramming)
 - [Mind Mapping](#mind-mapping)
 - [Task Management](#task-management)
+- [Documentation](#documentation)
 - [API Platform](#api-platform)
 - [Network Debugging](#network-debugging)
 - [Git](#git)
@@ -43,17 +44,20 @@
 
 - [Doom Emacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
 - [Spacemacs](https://www.spacemacs.org) - Emacs advanced Kit focused on Evil
-- [System Crafters](https://systemcrafters.net) - A community and learning resource for computer enthusiasts who are interested in crafting their computing experience to increase their enjoyment and productivity
+- [Emacs Prelude](https://prelude.emacsredux.com) - Make your experience with Emacs both more pleasant and more powerful
+- [System Crafters](https://systemcrafters.net)
 
 ## Browser
 
 - [DuckDuckGo](https://duckduckgo.com)
 - [Vivaldi](https://vivaldi.com)
+- [Zen Browser](https://zen-browser.app)
 
 ## Note Taking
 
 - [Notable](https://notable.app) - The Markdown-based note-taking app that doesn't suck
 - [Obsidian](https://obsidian.md) - Sharpen your thinking
+- [Joplin](https://joplinapp.org) - Free your notes
 
 ## Diagramming
 
@@ -67,7 +71,13 @@
 
 ## Task Management
 
+- [TickTick](https://ticktick.com) - A To-Do List and Calendar to keep you organized
 - [ClickUp](https://clickup.com) - The everything app for work
+
+## Documentation
+
+- [Docusaurus](https://docusaurus.io) - Build optimized websites quickly, focus on your content
+- [MkDocs](https://www.mkdocs.org) - Project documentation with Markdown
 
 ## API Platform
 
