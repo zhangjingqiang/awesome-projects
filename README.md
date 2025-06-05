@@ -93,12 +93,19 @@
 - [GitHub Desktop](https://github.com/apps/desktop) - Simple collaboration from your desktop
 - [GitKraken](https://www.gitkraken.com) - Legendary Git Tools
 
-## Kubernetes
-
-- [Lens](https://k8slens.dev) - The Kubernetes IDE
-
 ## Browser Extension
 
 - [Wappalyzer](https://www.wappalyzer.com) - Find out what websites are built with
 - [Vimium](https://vimium.github.io) - The Hacker's Browser
 - [ColorZilla](https://www.colorzilla.com) - Eyedropper, Color Picker, Gradient Generator and more
+
+## Development Environment
+
+- [Coder](https://coder.com) - Cloud Development Environment: Remote & Self Hosted
+- [DevPod](https://devpod.sh) - Open Source Dev-Environments-As-Code
+- [GitPod](https://www.gitpod.io) - Always ready-to-cod
+
+## Presentation
+
+- [ttyd](https://tsl0922.github.io/ttyd) - Share your terminal over the web
+- [Browsh](https://www.brow.sh) - the modern text-based browser
