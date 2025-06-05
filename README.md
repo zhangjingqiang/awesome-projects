@@ -102,7 +102,6 @@
 ## Development Environment
 
 - [Coder](https://coder.com) - Cloud Development Environment: Remote & Self Hosted
-- [DevPod](https://devpod.sh) - Open Source Dev-Environments-As-Code
 - [GitPod](https://www.gitpod.io) - Always ready-to-cod
 
 ## Presentation
