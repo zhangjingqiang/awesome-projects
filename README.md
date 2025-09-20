@@ -61,6 +61,7 @@
 
 ## Diagramming
 
+- [Excadidraw Whiteboard](https://excalidraw.com)
 - [Draw.io](https://www.drawio.com) - Security-first diagramming for teams
 - [Mermaid](https://mermaid.js.org) - Diagramming and charting tool
 - [Lucidchart](https://www.lucidchart.com) - Diagramming Powered By Intelligence
