@@ -6,7 +6,6 @@
 - [Editor](#editor)
   - [Vim](#vim)
   - [Emacs](#emacs)
-- [Browser](#browser)
 - [Note Taking](#note-taking)
 - [Diagramming](#diagramming)
 - [Mind Mapping](#mind-mapping)
@@ -26,10 +25,6 @@
 
 ## Editor
 
-- [Zed](https://zed.dev) - The editor for what's next
-- [Lapce](https://lap.dev/lapce) - Lightning-fast and Powerful Code Editor
-- [Helix](https://helix-editor.com) - A post-modern text editor
-
 ### Vim
 
 - [Vim Bootstrap](https://vim-bootstrap.com) - Your configuration generator for Neovim/Vim
@@ -45,12 +40,6 @@
 - [Spacemacs](https://www.spacemacs.org) - Emacs advanced Kit focused on Evil
 - [Emacs Prelude](https://prelude.emacsredux.com) - Make your experience with Emacs both more pleasant and more powerful
 - [System Crafters](https://systemcrafters.net)
-
-## Browser
-
-- [DuckDuckGo](https://duckduckgo.com)
-- [Vivaldi](https://vivaldi.com)
-- [Zen Browser](https://zen-browser.app)
 
 ## Note Taking
 
@@ -87,6 +76,7 @@
 ## Network Debugging
 
 - [Proxyman](https://proxyman.com) - Debug, intercept & mock HTTP with Proxyman
+- [Wireshark](https://www.wireshark.org) - The world's leading network protocol analyzer
 
 ## Git
 
@@ -102,9 +92,7 @@
 ## Development Environment
 
 - [Coder](https://coder.com) - Cloud Development Environment: Remote & Self Hosted
-- [GitPod](https://www.gitpod.io) - Always ready-to-cod
 
 ## Presentation
 
 - [ttyd](https://tsl0922.github.io/ttyd) - Share your terminal over the web
-- [Browsh](https://www.brow.sh) - the modern text-based browser
