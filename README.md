@@ -46,6 +46,8 @@
 - [Notable](https://notable.app) - The Markdown-based note-taking app that doesn't suck
 - [Obsidian](https://obsidian.md) - Sharpen your thinking
 - [Joplin](https://joplinapp.org) - Free your notes
+- [Simplenote](https://simplenote.com) - The simplest way to keep notes
+- [Standard Notes](https://standardnotes.com) - Free your mind
 
 ## Diagramming
 
