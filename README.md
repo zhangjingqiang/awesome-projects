@@ -85,6 +85,11 @@
 - [GitHub Desktop](https://github.com/apps/desktop) - Simple collaboration from your desktop
 - [GitKraken](https://www.gitkraken.com) - Legendary Git Tools
 
+## Version Manager
+
+- [asdf](https://asdf-vm.com)
+- [mise](https://mise.jdx.dev)
+
 ## Browser Extension
 
 - [Wappalyzer](https://www.wappalyzer.com) - Find out what websites are built with
