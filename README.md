@@ -22,6 +22,7 @@
 - [Warp](https://www.warp.dev) - The intelligent terminal
 - [Wave Terminal](https://www.waveterm.dev) - Upgrade Your Command Line
 - [Termius](https://termius.com) - Modern SSH Client
+- [Terminal Trove](https://terminaltrove.com) - The $HOME of all things in the terminal
 
 ## Editor
 
