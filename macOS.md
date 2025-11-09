@@ -4,7 +4,7 @@
 - [MacVim](https://macvim.org) - the text editor for macOS
 - [Alfred](https://www.alfredapp.com) - Productivity App for macOS
 - [clocker](https://abhishekbanthia.com/clocker) - Time zones made simpler!
-- [MacZip](https://ezip.awehunt.com) - Designed for macOS!
+- [Keka](https://www.keka.io) - the macOS file archiver
 - [Folx](https://www.mac-downloader.com) - Free Download Manager & Best Torrent Client for Mac
 - [AltTab](https://alt-tab-macos.netlify.app) - Windows alt-tab on macOS
 - [Tiles](https://freemacsoft.net/tiles) - Organize your macOS windows in a snap
